@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="acciones.cl" resolutions="1x" timestamp="1534857559006">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="acciones.cl" resolutions="1x" timestamp="1534860628968">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="etiqueta.css" crc="124341856" ref="etiqueta"/>
@@ -21,9 +21,9 @@
     <file name="museconfig.js" crc="4153641093" ref="index:selecciona:etiqueta"/>
     <file name="jquery.watch.js" crc="99325471" ref="index:selecciona:etiqueta"/>
     <file name="webpro.js" crc="242022427" ref="index:selecciona:etiqueta"/>
-    <file name="form_check.php" crc="147359589" ref="index:selecciona"/>
-    <file name="form_throttle.php" crc="93986428" ref="index:selecciona"/>
-    <file name="form_process.php" crc="3851993751" ref="index:selecciona"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
     <file name="form-u2257.php" crc="4242278970" ref="index"/>
     <file name="musewpslideshow.js" crc="457073769" ref="index:selecciona:etiqueta"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="index:selecciona:etiqueta"/>
@@ -52,16 +52,16 @@
     <file name="logo02.svg" crc="3983379922" seo="true" ref="index:selecciona:etiqueta">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="selecciona" alt=""/>
-      <caption webpage="selecciona" alt=""/>
       <caption webpage="etiqueta" alt=""/>
       <caption webpage="etiqueta" alt=""/>
+      <caption webpage="selecciona" alt=""/>
+      <caption webpage="selecciona" alt=""/>
     </file>
-    <file name="logo02_poster_.png" crc="4267933418" ref="index:selecciona"/>
+    <file name="logo02_poster_.png" crc="4267933418" ref="index"/>
     <file name="u1707-42.png" crc="268535819" ref="index"/>
     <file name="u1725-42.png" crc="4171122735" ref="index"/>
     <file name="u1735-42.png" crc="200748593" ref="index"/>
-    <file name="imagen pegada 643x555100x87.jpg" crc="4281411471" seo="true" ref="index:selecciona">
+    <file name="imagen pegada 643x555100x87.jpg" crc="4281411471" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="selecciona" alt=""/>
     </file>
@@ -103,8 +103,9 @@
     <file name="u2382-42.png" crc="4171122735" ref="etiqueta"/>
     <file name="u2383-42.png" crc="200748593" ref="etiqueta"/>
     <file name="u2409-42.png" crc="268535819" ref="etiqueta"/>
+    <file name="favicon.ico" crc="4227914058" ref="index"/>
   </folder>
-  <file name="index.html" crc="217794748" seo="true" mt="1534770317181" redirect="true"/>
-  <file name="selecciona.html" crc="76485838" seo="true" mt="1534857543872" redirect="true"/>
-  <file name="etiqueta.html" crc="4217716959" seo="true" mt="1534857341258" redirect="true"/>
+  <file name="index.html" crc="3764675928" seo="true" mt="1534860602618" redirect="true"/>
+  <file name="selecciona.html" crc="380982719" seo="true" mt="1534860602618" redirect="true"/>
+  <file name="etiqueta.html" crc="3925459023" seo="true" mt="1534860602618" redirect="true"/>
 </manifest>
